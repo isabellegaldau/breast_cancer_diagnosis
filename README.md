@@ -3,3 +3,4 @@
 ## Contributors
 
 - Jasmine LaRose
+- Aaron Matthews
