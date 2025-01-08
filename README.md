@@ -4,3 +4,4 @@
 
 - Jasmine LaRose
 - Aaron Matthews
+- Mahamadou Mahi Diallo
