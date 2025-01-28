@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 MODEL_PATH = '/workspaces/breast_cancer_diagnosis/flask_app/model.h5'
 IMAGE_DIM = 128
-CLASS_NAMES = ['IDC Negative', 'IDC Positive']
+CLASS_NAMES = ['Image tested Negative for IDC', 'Image tested Positive for IDC']
 
 # Load the trained model
 model = None
